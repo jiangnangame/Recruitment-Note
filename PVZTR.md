@@ -20,7 +20,7 @@ Your main job is to participate in the Development and maintenance of *PvZ Trave
 1.  Proficiency in JavaScript (at least ECMAScript6) and the ability to debug JavaScript web applications using Chrome Devtools.
 2.  Familiarity with basic HTML5/CSS3 related knowledge and the ability to apply it to building game graphics and the implementing of animation and special effects. 
 3.  Knowledge of the basics of the HTTP protocol and the ability to understand and implement simple front-end and back-end communication.
-4.  Curious about front-end technology, independent research and problem solving ability, know how to check MDN Web documents, search Google, dare to gnaw the more difficult program source code.
+4.  Curiosity about front-end technology, independent research and problem solving ability, know how to check MDN Web documents, search Google, dare to gnaw the more difficult program source code.
 5.  Basically, we are looking for high school or college students who are passionate about PvZ and are willing to spend their free time working on our non-profit games.
 6. (Bonus) Understand the basics of Node.js and be able to develop and maintain simple Node.js applications.
 7. (Bonus) Basic knowledge of Adobe Photoshop and Adobe Animate.
