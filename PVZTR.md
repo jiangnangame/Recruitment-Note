@@ -32,7 +32,7 @@ Your main job is to participate in the Development and maintenance of *PvZ Trave
 
 1. You can download and collect **Game Insider Information** including original game HD artwork, animation originals and design scraps
 2. The main development time is selected to be in the summer and winter vacations, so that we will not take up your study time. 
-3. All communication with the development team will be done remotely online via QQ and We will provide a QQ account for you if it’s difficult to sign in, so you don't need to worry about the remoteness of your area to facilitate our communication. Meanwhile we have flexible working time and sometimes we can just take a break when there is no need to hurry.
+3. All communication with the development team will be done remotely online via QQ and We will provide a QQ account for you if it’s difficult to sign in by , so you don't need to worry about the remoteness of your area to facilitate our communication. Meanwhile we have flexible working time and sometimes we can just take a break when there is no need to hurry.
 3. JiangNanGame's programmers will personally teach newcomers  for a while to ensure that they develop a unique and deep understanding of the working principle of *PvZ Travel*'s source code and help them get started with the game development quickly.
 4. You will have direct access to the official *PvZ Travel* discord channel administrator, and the right to appear and speak in all online promotional activities related to *PvZ Travel*.
 
