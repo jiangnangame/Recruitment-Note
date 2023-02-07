@@ -28,7 +28,7 @@ Your main job is to participate in the Development and maintenance of *PvZ Trave
 9. (Bonus) Have worked on your own JavaScript game project or as a core developer.
 10. (Bonus) A solid foundation in high school or higher mathematics and physics.
 
-# Treatment & Benefits
+## Treatment & Benefits
 
 1. You can download and collect **Game Insider Information** including original game HD artwork, animation originals and design scraps
 2. The main development time is selected to be in the summer and winter vacations, so that we will not take up your study time. 
@@ -36,11 +36,11 @@ Your main job is to participate in the Development and maintenance of *PvZ Trave
 3. JiangNanGame's programmers will personally teach newcomers  for a while to ensure that they develop a unique and deep understanding of the working principle of *PvZ Travel*'s source code and help them get started with the game development quickly.
 4. You will have direct access to the official *PvZ Travel* discord channel administrator, and the right to appear and speak in all online promotional activities related to *PvZ Travel*.
 
-# Application Method
+## Application Method
 
 Send your application email to 2583727181@qq.com or 1509095749@qq.com.
 
-You should use “Application to join ***PvZ Travel development team*** as the mail title.
+You should use ***Application to join PvZ Travel development team*** as the mail title.
 
 In the email, tell us why you want to join us and what level of skills you have, and be sure to include your discord account. If you have any work or GitHub ID, please include it. 
 
